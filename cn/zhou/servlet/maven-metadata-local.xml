@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.zhou</groupId>
+  <artifactId>servlet</artifactId>
+  <versioning>
+    <release>tomcat-8.5.0</release>
+    <versions>
+      <version>tomcat-9.0.8</version>
+      <version>tomcat-8.5.0</version>
+    </versions>
+    <lastUpdated>20180617110614</lastUpdated>
+  </versioning>
+</metadata>
