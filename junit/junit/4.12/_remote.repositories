@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 06 13:47:03 CST 2018
+junit-4.12.jar>AliMaven=
+junit-4.12.pom>AliMaven=
+junit-4.12-sources.jar>AliMaven=

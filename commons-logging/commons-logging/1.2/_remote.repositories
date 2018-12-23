@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 06 13:43:52 CST 2018
+commons-logging-1.2.jar>AliMaven=
+commons-logging-1.2.pom>AliMaven=
+commons-logging-1.2-sources.jar>AliMaven=
